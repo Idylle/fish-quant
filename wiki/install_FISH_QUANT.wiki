@@ -10,14 +10,11 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
 = Matlab code =
 
- * *Unzip archive* in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command userpath. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
+ * *Unzip archive* in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command _userpath_. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
 
- * Add folder with subfolder to *Matlab path definition*. This can be done with a few simple steps in Matlab
-  # In the Matlab menu select _File > Set Path_
-  # This will open a dialog box. In this box select _Add with subfolders …_
-  # This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click _OK_.
-  # To save this settings click _Save_. Depending on the settings of the installation of Matlab this might results in a warning saying that the changes to path cannot be saved. Matlab proposes to save the path-definition file pathdef.m to another location. Click _Yes_. Select a directory of choice, e.g. the Matlab work directory of the user C:\Users\muellerf\Documents\MATLAB.
+ * A PDF with *detailed instructions* on how to install and used FISH-QUANT can be found in the extraced archive.
 
+ * Before running FISH-QUANT the *Matlab path definition* has to be updated. Instruction on how to do this can be found in the above mentioned PDF. 
 
 = MIJ – Interface between Matlab and Imagej = 
 FISH QUANT uses the software package [http://bigwww.epfl.ch/sage/soft/mij/ MIJ] to visualize results in ImageJ. The package will be automatically installed during the installation process. More detailed description can be found on the website http://bigwww.epfl.ch/sage/soft/mij/. 
