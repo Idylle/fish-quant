@@ -14,9 +14,9 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
  * Add folder with subfolder to Matlab path definition. This can be done with a few simple steps in Matlab
  # In the Matlab menu select _File > Set Path_
- # This will open a dialog box. In this box select Add with subfolders …
- # This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click OK.
- # To save this settings press on Save. Depending on the settings of the installation of Matlab this might results in a warning saying that the changes to path cannot be saved. Matlab proposes to save the path-definition file pathdef.m to another location. Click on Yes. Select a directory of choice, e.g. the Matlab work directory of the user C:\Users\muellerf\Documents\MATLAB.
+ # This will open a dialog box. In this box select _Add with subfolders …_
+ # This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click _OK_.
+ # To save this settings click _Save_. Depending on the settings of the installation of Matlab this might results in a warning saying that the changes to path cannot be saved. Matlab proposes to save the path-definition file pathdef.m to another location. Click _Yes_. Select a directory of choice, e.g. the Matlab work directory of the user C:\Users\muellerf\Documents\MATLAB.
 
 
 = MIJ – Interface between Matlab and Imagej = 
