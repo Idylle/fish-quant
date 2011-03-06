@@ -10,18 +10,14 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
 = Matlab code =
 
+ * Unzip archive in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command userpath. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
 
-# Unzip archive in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command userpath. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
-
-#Add folder with subfolder to Matlab path definition. This can be done with a few simple steps in Matlab
-a.	In the Matlab menu select File > Set Path
-b.	This will open a dialog box. In this box select Add with subfolders …
-c.	This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click OK.
-d.	To save this settings press on Save. Depending on the settings of the installation of Matlab this might results in a warning saying that the changes to path cannot be saved. Matlab proposes to save the path-definition file pathdef.m to another location. Click on Yes. Select a directory of choice, e.g. the Matlab work directory of the user C:\Users\muellerf\Documents\MATLAB.
-
+ * Add folder with subfolder to Matlab path definition. This can be done with a few simple steps in Matlab
+ # In the Matlab menu select File > Set Path
+ # This will open a dialog box. In this box select Add with subfolders …
+ # This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click OK.
+ # To save this settings press on Save. Depending on the settings of the installation of Matlab this might results in a warning saying that the changes to path cannot be saved. Matlab proposes to save the path-definition file pathdef.m to another location. Click on Yes. Select a directory of choice, e.g. the Matlab work directory of the user C:\Users\muellerf\Documents\MATLAB.
 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= MIJ – Interface between Matlab and Imagej = 
+FISH QUANT uses the software package [http://bigwww.epfl.ch/sage/soft/mij/ MIJ] to visualize results in ImageJ. The package will be automatically installed during the installation process. More detailed description can be found on the website http://bigwww.epfl.ch/sage/soft/mij/. 
