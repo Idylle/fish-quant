@@ -10,9 +10,9 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
 = Matlab code =
 
- * Unzip archive in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command userpath. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
+ * *Unzip archive* in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command userpath. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
 
- * Add folder with subfolder to Matlab path definition. This can be done with a few simple steps in Matlab
+ * Add folder with subfolder to *Matlab path definition*. This can be done with a few simple steps in Matlab
  # In the Matlab menu select _File > Set Path_
  # This will open a dialog box. In this box select _Add with subfolders …_
  # This will open another dialog. Here select the folder of FISH_Quant from step 1, e.g. C:\Users\muellerf\Documents\MATLAB\FISH_Quant. Click _OK_.
