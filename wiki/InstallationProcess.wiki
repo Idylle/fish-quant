@@ -1,5 +1,7 @@
 #summary Instructions to install FISH-QUANT
 
+#sidebar Installing FISH-QUANT
+
 = Requirements =
 
 Functions were programmed and tested for Matlab 7.11. The following toolboxes are needed
