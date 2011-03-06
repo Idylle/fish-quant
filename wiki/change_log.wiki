@@ -1,0 +1,7 @@
+#summary Log-file of changes in FISH-QUANT
+
+= Version history =
+
+== Version 0a ==
+
+Initial implementation.
