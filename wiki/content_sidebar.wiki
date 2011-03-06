@@ -1,4 +1,3 @@
 = Introduction =
 
-Installing FISH-QUANT []
-
+Installing FISH-QUANT [InstallationProcess]
