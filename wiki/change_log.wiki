@@ -10,7 +10,7 @@ First beta-release.
 
 Initial implementation.
 
-=== Version 0b ===
+=== Version 0b - comes soon ===
 
  * Changed start-option for FISH_QUANT with 'Dir' option. path now indicates installation path of MIJ. 
 
