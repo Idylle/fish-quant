@@ -5,3 +5,9 @@
 == Version 0a ==
 
 Initial implementation.
+
+== Version 0b ==
+
+ * Changed start-option for FISH_QUANT with 'Dir' option. path now indicates installation path of MIJ. 
+
+ * GUI is re-sizable. This guarantees that the controls are visible on different screens.
