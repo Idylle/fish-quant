@@ -14,4 +14,4 @@ Initial implementation.
 
  * Changed start-option for FISH_QUANT with 'Dir' option. path now indicates installation path of MIJ. 
 
- * GUI is re-sizable. This guarantees that the controls are visible on different screens.
+ * Small changes in GUI to allow for different screen-sizes and plat-form independence.
