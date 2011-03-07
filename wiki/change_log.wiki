@@ -2,11 +2,15 @@
 
 = Version history =
 
-== Version 0a ==
+== Version 0 ==
+
+First beta-release.
+
+=== Version 0a ===
 
 Initial implementation.
 
-== Version 0b ==
+=== Version 0b ===
 
  * Changed start-option for FISH_QUANT with 'Dir' option. path now indicates installation path of MIJ. 
 
