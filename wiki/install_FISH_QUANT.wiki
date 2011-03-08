@@ -18,3 +18,6 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
 = MIJ – Interface between Matlab and Imagej = 
 FISH QUANT uses the software package [http://bigwww.epfl.ch/sage/soft/mij/ MIJ] to visualize results in ImageJ. The package will be automatically installed during the installation process. More detailed description can be found on the website http://bigwww.epfl.ch/sage/soft/mij/. 
+
+*IMPORTANT*
+It is recommend that the Java Heap Memory is increased when MIJ is used. See MIJ web-site for details. This is especially important if large images are processed and viewed. 
