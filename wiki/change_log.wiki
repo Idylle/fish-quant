@@ -20,3 +20,4 @@ Initial implementation.
  * Bug in functions to average spots is corrected. 
  * Help document improved.
  * Saving of detection settings is possible
+ * GUI can be reset.
