@@ -21,3 +21,4 @@ Initial implementation.
  * Help document improved.
  * Saving of detection settings is possible
  * GUI can be reset.
+ * More information in output files. 
