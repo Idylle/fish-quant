@@ -22,3 +22,4 @@ Initial implementation.
  * Saving of detection settings is possible
  * GUI can be reset.
  * More information in output files. 
+ * New GUI to define the outline of cells and TxSite. Allows changing the geometry or deleting specific elements. Loading and saving are considered as well. 
