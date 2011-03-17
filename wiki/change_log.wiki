@@ -24,3 +24,4 @@ Initial implementation.
  * More information in output files. 
  * New GUI to define the outline of cells and transcriptions sites. Allows changing the geometry or deleting specific elements. Loading and saving are considered as well. 
  * Processing in batch mode with pre-defined settings on a large number of cells.
+ * New options to start FISH-QUANT (a) Can be called without options if installation was accoring to instruction (b) If called with 'Dir' keyword, the following path indicates installation path of MIJ. (c) Called with keyword 'root' if MIJ files are save according to web-site in java directory of matlabroot.
