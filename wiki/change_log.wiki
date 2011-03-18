@@ -6,17 +6,10 @@
 
 First beta-release.
 
-=== Version 0a ===
-
-Initial implementation.
-
-=== Version 0b ===
-
- * New options to start FISH-QUANT (a) If called with 'Dir' keyword, path now indicates installation path of MIJ. (b) Can be called without options if MIJ files are save according to web-site in java directory of matlabroot. 
- * Changes in GUI to allow for different screen-sizes and platform independence.
+=== Version 0d (coming soon) ===
+ * Batch mode now allows averaging of all identfied spots and then re-fit the spots with a fixed width (either obtained by just averaging the estimated PSF or by fitting the averaged spot). 
 
 === Version 0c ===
-
  * Bug in functions to average spots is corrected. 
  * Help document improved.
  * Saving of detection settings is possible
@@ -24,4 +17,11 @@ Initial implementation.
  * More information in output files. 
  * New GUI to define the outline of cells and transcriptions sites. Allows changing the geometry or deleting specific elements. Loading and saving are considered as well. 
  * Processing in batch mode with pre-defined settings on a large number of cells.
+
+=== Version 0b ===
+ * New options to start FISH-QUANT (a) If called with 'Dir' keyword, path now indicates installation path of MIJ. (b) Can be called without options if MIJ files are save according to web-site in java directory of matlabroot. 
+ * Changes in GUI to allow for different screen-sizes and platform independence.
  * New options to start FISH-QUANT (a) Can be called without options if installation was accoring to instruction (b) If called with 'Dir' keyword, the following path indicates installation path of MIJ. (c) Called with keyword 'root' if MIJ files are save according to web-site in java directory of matlabroot.
+
+=== Version 0a ===
+Initial implementation.
