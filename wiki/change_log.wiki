@@ -7,7 +7,7 @@
 First beta-release.
 
 === Version 0d (coming soon) ===
- * Batch mode now allows averaging of all identfied spots and then re-fit the spots with a fixed width (either obtained by just averaging the estimated PSF or by fitting the averaged spot). 
+ * Batch mode now allows re-fitting the spots with a fixed width (obtained by averaging of the fitting spots). 
 
 === Version 0c ===
  * Bug in functions to average spots is corrected. 
