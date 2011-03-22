@@ -8,6 +8,7 @@ First beta-release.
 
 === Version 0d (coming soon) ===
  * Batch mode now allows re-fitting the spots with a fixed width (obtained by averaging of the fitting spots). 
+ * Batch mode allows averaging all detected spots. 
 
 === Version 0c ===
  * Bug in functions to average spots is corrected. 
