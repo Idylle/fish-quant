@@ -8,7 +8,9 @@ First beta-release.
 
 === Version 0d (coming soon) ===
  * Batch mode now allows re-fitting the spots with a fixed width (obtained by averaging of the fitting spots). 
- * Batch mode allows averaging all detected spots. 
+ * Batch mode allows averaging all detected spots. Display in ImageJ is possible as well. Allows convenient saving of spot in various file-formats. 
+ * Batch mode allows reading-in already detected spots for averaging
+ * Construction of PSF from over-sampled data also without radial averaging possible.
 
 === Version 0c ===
  * Bug in functions to average spots is corrected. 
