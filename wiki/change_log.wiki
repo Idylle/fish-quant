@@ -27,4 +27,4 @@ First beta-release.
  * New options to start FISH-QUANT (a) Can be called without options if installation was accoring to instruction (b) If called with 'Dir' keyword, the following path indicates installation path of MIJ. (c) Called with keyword 'root' if MIJ files are save according to web-site in java directory of matlabroot.
 
 === Version 0a ===
-Initial implementation.
+ * Initial implementation.
