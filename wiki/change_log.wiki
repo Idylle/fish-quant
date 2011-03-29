@@ -11,6 +11,7 @@ First beta-release.
  * Batch mode allows averaging all detected spots. Display in ImageJ is possible as well. Allows convenient saving of spot in various file-formats. 
  * Batch mode allows reading-in already detected spots for averaging
  * Construction of PSF from over-sampled data also without radial averaging possible.
+ * Improved visualization in ImageJ. Detected spots (with or without) thresholding are indicated by circle (Developed by Adrien Senecal).
 
 === Version 0c ===
  * Bug in functions to average spots is corrected. 
