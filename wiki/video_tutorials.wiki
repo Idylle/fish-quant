@@ -7,6 +7,7 @@ Below the embedded videos are provided as well as links to youtube. For best qua
 
 = Tutorial 1: installing FISH-QUANT =
 Explains how to install FISH-QUANT on the computer.  
+
 <wiki:video url="http://www.youtube.com/watch?v=aJPFDRN49m4"/>
 
 [http://www.youtube.com/watch?v=aJPFDRN49m4]
@@ -14,6 +15,7 @@ Explains how to install FISH-QUANT on the computer.
 
 = Tutorial 2: getting started  =
 Explains how to start a project by setting up the folder structure for the various files and define this structure in FISH-QUANT.
+
 <wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s"/>
 
 [http://www.youtube.com/watch?v=j6qzBD1lm4s]
@@ -21,6 +23,7 @@ Explains how to start a project by setting up the folder structure for the vario
 
 = Tutorial 3: defining outlines =
 Explains how to define outlines of cells and transcription sites that will then be used for the mature and nascent mRNA quantification.
+
 <wiki:video url="http://www.youtube.com/watch?v=GG4AtZ0RBtU"/>
 
 [http://www.youtube.com/watch?v=GG4AtZ0RBtU]
@@ -28,6 +31,7 @@ Explains how to define outlines of cells and transcription sites that will then 
 
 = Tutorial 4.1: mature mRNA quantification in individual images (Part 1)=
 Explains the first part of the mRNA quantification in individual cells. Image is first filtered and then spot-candidates are pre-detected. 
+
 <wiki:video url="http://www.youtube.com/watch?v=2TDlg-_K-aE"/>
 
 [http://www.youtube.com/watch?v=2TDlg-_K-aE]
@@ -35,6 +39,7 @@ Explains the first part of the mRNA quantification in individual cells. Image is
 
 = Tutorial 4.2: mature mRNA quantification in individual images (Part 2)=
 Explains the second part of the mRNA quantification in individual cells. Pre-detected spots are fit with a 3D Gaussian and then thresholded based on the estimated fitting parameters. 
+
 <wiki:video url="http://www.youtube.com/watch?v=Ar-z7kaRxdk"/>
 
 [http://www.youtube.com/watch?v=Ar-z7kaRxdk]
