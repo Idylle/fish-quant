@@ -21,3 +21,10 @@ A PDF with a brief summary of the different video tutorials can be found in the 
 <wiki:video url="http://www.youtube.com/watch?v=GG4AtZ0RBtU"/>
 
 [http://www.youtube.com/watch?v=GG4AtZ0RBtU]
+
+
+= Tutorial 4: mature mRNA quantification in individual images =
+
+<wiki:video url="http://www.youtube.com/watch?v=6rUP2iXlifg"/>
+
+[http://www.youtube.com/watch?v=6rUP2iXlifg]
