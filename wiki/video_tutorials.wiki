@@ -1,11 +1,19 @@
 #summary Video tutorials illustrating the use of FISH-QUANT
 
-= Introduction =
+A brief summary of the content of the tutorials can be found in the PDF (FQ_video_tutorials_v1a.pdf) in the *Downloads* section. 
+
+= Tutorial 1: installing FISH-QUANT =
 
 Add your content here.
 
 
-= Details =
+= Tutorial 2: getting started with a project =
+
+
+Add your content here.
+
+= Tutorial 3: getting started with mature mRNA quantification =
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
