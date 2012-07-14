@@ -1,1 +1,1 @@
-A PDF with detailed instructions on how to use FISH-QUANT can be found in the archives in the Downloads section. 
+A PDF with detailed instructions on how to use FISH-QUANT can be found in the archives in the *Downloads* section. 
