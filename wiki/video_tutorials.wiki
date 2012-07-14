@@ -1,6 +1,6 @@
 #summary Video tutorials illustrating the use of FISH-QUANT
 
-A brief summary of the content of the tutorials can be found in the PDF (FQ_video_tutorials_v1a.pdf) in the *Downloads* section. 
+A PDF with a brief summary of the different video tutorials can be found in the *Downloads* section.
 
 = Tutorial 1: installing FISH-QUANT =
 
