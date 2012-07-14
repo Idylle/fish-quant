@@ -4,7 +4,7 @@ A PDF with a brief summary of the different video tutorials can be found in the 
 
 = Tutorial 1: installing FISH-QUANT =
 
-Add your content here.
+[http://www.youtube.com/watch?v=u1PUgWLRU5E&feature=g-vrec]
 
 
 = Tutorial 2: getting started with a project =
