@@ -9,8 +9,11 @@ A PDF with a brief summary of the different video tutorials can be found in the 
 [http://www.youtube.com/watch?v=aJPFDRN49m4&feature=plcp]
 
 
-= Tutorial 2: getting started with a project =
+= Tutorial 2: getting started  =
 
+<wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s&feature=youtu.be"/>
+
+[http://www.youtube.com/watch?v=j6qzBD1lm4s&feature=youtu.be]
 
 Add your content here.
 
