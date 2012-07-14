@@ -4,6 +4,7 @@
 
 Functions were programmed and tested for Matlab 7.11. The following toolboxes are needed
  * Optimization toolbox 
+ * Statistics toolbox
  * Image processing toolbox
  * (Optional) Parallel processing toolbox
 
@@ -15,9 +16,3 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
  * A PDF with *detailed instructions* on how to install and used FISH-QUANT can be found in the extraced archive.
 
  * Before running FISH-QUANT the *Matlab path definition* has to be updated. Instruction on how to do this can be found in the above mentioned PDF. 
-
-= MIJ – Interface between Matlab and Imagej = 
-FISH QUANT uses the software package [http://bigwww.epfl.ch/sage/soft/mij/ MIJ] to visualize results in ImageJ. The package will be automatically installed during the installation process. More detailed description can be found on the website http://bigwww.epfl.ch/sage/soft/mij/. 
-
-*IMPORTANT*
-It is recommend that the Java Heap Memory is increased when MIJ is used. See MIJ web-site for details. This is especially important if large images are processed and viewed. 
