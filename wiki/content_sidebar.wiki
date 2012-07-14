@@ -3,9 +3,3 @@
 [install_FISH_QUANT Installing FISH-QUANT]
 
 [use_FISH_QUANT Using FISH-QUANT]
-
-=== Development===  
-
-[change_log Version history]
-
-[Acknowledgment Acknowledgment]
