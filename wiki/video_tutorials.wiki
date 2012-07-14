@@ -13,12 +13,11 @@ A PDF with a brief summary of the different video tutorials can be found in the 
 
 <wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s&feature=youtu.be"/>
 
-[http://www.youtube.com/watch?v=j6qzBD1lm4s&feature=youtu.be]
+[http://www.youtube.com/watch?v=j6qzBD1lm4s]
 
 
 = Tutorial 3: defining outlines =
 
-<wiki:video url="http://www.youtube.com/watch?v=GG4AtZ0RBtU&feature=youtu.be"/>
+<wiki:video url="http://www.youtube.com/watch?v=GG4AtZ0RBtU"/>
 
-[http://www.youtube.com/watch?v=GG4AtZ0RBtU&feature=youtu.be]
-
+[http://www.youtube.com/watch?v=GG4AtZ0RBtU]
