@@ -4,14 +4,14 @@ A PDF with a brief summary of the different video tutorials can be found in the 
 
 = Tutorial 1: installing FISH-QUANT =
 
-<wiki:video url="http://www.youtube.com/watch?v=aJPFDRN49m4&feature=plcp"/>
+<wiki:video url="http://www.youtube.com/watch?v=aJPFDRN49m4"/>
 
-[http://www.youtube.com/watch?v=aJPFDRN49m4&feature=plcp]
+[http://www.youtube.com/watch?v=aJPFDRN49m4]
 
 
 = Tutorial 2: getting started  =
 
-<wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s&feature=youtu.be"/>
+<wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s"/>
 
 [http://www.youtube.com/watch?v=j6qzBD1lm4s]
 
