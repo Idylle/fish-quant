@@ -11,8 +11,9 @@ Functions were programmed and tested for Matlab 7.11. The following toolboxes ar
 
 = Matlab code =
 
+ * A PDF with *detailed instructions* on how to install and use FISH-QUANT can be found in the *Downloads* section. 
+
  * *Unzip archive* in user folder of Matlab. Under windows this folder is usually called something like C:\Users\muellerf\Documents\MATLAB, where muellerf is the user name. In Matlab the user path can be found with the command _userpath_. There should now be a folder C:\Users\muellerf\Documents\MATLAB\FISH_QUANT.
 
- * A PDF with *detailed instructions* on how to install and used FISH-QUANT can be found in the extraced archive.
 
- * Before running FISH-QUANT the *Matlab path definition* has to be updated. Instruction on how to do this can be found in the above mentioned PDF. 
+ * *IMPORTANT* Before running FISH-QUANT the *Matlab path definition* has to be updated. Instruction on how to do this can be found in the above mentioned PDF. 
