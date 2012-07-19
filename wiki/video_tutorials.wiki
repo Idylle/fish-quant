@@ -16,13 +16,13 @@ Explains how to install FISH-QUANT on the computer.
 = Tutorial 2: working with the example data set =
 Explains how to get started with the example data set and get a first overview of FISH-QUANT.  
 
-<wiki:video url="http://www.youtube.com/watch?v=WR59oPlu-rw"/>
+<wiki:video url="http://www.youtube.com/watch?v=qyytjYmy1FY"/>
 
-[http://www.youtube.com/watch?v=WR59oPlu-rw]
+[http://www.youtube.com/watch?v=qyytjYmy1FY]
 
 
 
-= Tutorial 3: getting started  =
+= Tutorial 3: getting started with an analysis =
 Explains how to start a project by setting up the folder structure for the various files and define this structure in FISH-QUANT.
 
 <wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s"/>
