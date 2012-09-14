@@ -2,9 +2,9 @@
 
 = Requirements =
 
-Functions were programmed and tested for *Matlab R2011a*. 
+Program was developed and and tested in *Matlab R2011a* on Mac OS 10.6.8. 
 
-Some function might *NOT* work on earlier versions. Please contact us if you encounter any problems.  
+Some function might *NOT* work in earlier versions. Please contact us if you encounter any problems.  
 
 The following toolboxes are required
  * Optimization toolbox 
