@@ -2,7 +2,7 @@
 
 = Requirements =
 
-Program was developed and and tested in *Matlab R2011a* on Mac OS 10.6.8. 
+Program was developed and tested in *Matlab R2011a* on Mac OS 10.6.8. 
 
 Some function might *NOT* work in earlier versions. Please contact us if you encounter any problems.  
 
