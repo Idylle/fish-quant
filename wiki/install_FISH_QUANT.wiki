@@ -6,7 +6,7 @@ Functions were programmed and tested for *Matlab R2011a*.
 
 Some function might *NOT* work on earlier versions. Please contact us if you encounter any problems.  
 
-The following toolboxes are needed
+The following toolboxes are required
  * Optimization toolbox 
  * Statistics toolbox
  * Image processing toolbox
