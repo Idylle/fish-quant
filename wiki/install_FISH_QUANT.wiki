@@ -2,7 +2,11 @@
 
 = Requirements =
 
-Functions were programmed and tested for Matlab 7.11. The following toolboxes are needed
+Functions were programmed and tested for *Matlab R2011a*. 
+
+Some function might *NOT* work on earlier versions. Please contact us if you encounter any problems.  
+
+The following toolboxes are needed
  * Optimization toolbox 
  * Statistics toolbox
  * Image processing toolbox
