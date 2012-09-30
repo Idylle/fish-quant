@@ -1,5 +1,6 @@
 #summary How to get started in FISH-QUANT
 
+For best quality use 720p and watch video in full screen mode. 
 
 = Tutorial 1: installing FISH-QUANT =
 Explains how to install FISH-QUANT on the computer.  
