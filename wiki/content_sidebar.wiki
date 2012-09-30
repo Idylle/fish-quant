@@ -1,7 +1,6 @@
-
 [install_FISH_QUANT Installing FISH-QUANT]
 
 [use_FISH_QUANT Using FISH-QUANT]
 
  * [video_overview Video tutorials]
-    * [video_tutorials Video tutorials]
+    * [VideoGettingStarted Getting started]
