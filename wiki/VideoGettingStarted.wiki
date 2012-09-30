@@ -3,7 +3,7 @@
 For best quality use 720p and watch video in full screen mode. 
 
 = Tutorial 1: installing FISH-QUANT =
-Explains how to install FISH-QUANT on the computer.  
+Explains how to install FISH-QUANT.  
 
 <wiki:video url="http://www.youtube.com/watch?v=aJPFDRN49m4"/>
 
