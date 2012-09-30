@@ -5,9 +5,9 @@ For best quality use 720p and watch video in full screen mode.
 = Tutorial 1.1: mature mRNA quantification in individual images (Part 1)=
 Explains the first part of the mRNA quantification in individual cells. Image is first filtered and then spot-candidates are pre-detected. 
 
-<wiki:video url="http://www.youtube.com/watch?v=2TDlg-_K-aE"/>
+<wiki:video url="http://www.youtube.com/watch?v=p4-0-S7GAw8"/>
 
-[http://www.youtube.com/watch?v=2TDlg-_K-aE]
+[http://www.youtube.com/watch?v=p4-0-S7GAw8]
 
 
 = Tutorial 1.2: mature mRNA quantification in individual images (Part 2)=
