@@ -2,13 +2,6 @@
 
 = Introduction =
 
-Add your content here.
+We provide a number of video tutorials demonstrating how to use the various features of FISH-QUANT. A PDF with a brief summary of the different tutorials can be found in the *Downloads* section. 
 
-afadsf
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-asdfasd
+In the different sections embedded videos are provided as well as links to youtube. For best quality use 720p and watch video in full screen mode. 
