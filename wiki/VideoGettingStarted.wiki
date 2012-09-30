@@ -22,6 +22,6 @@ Explains how to get started with the example data set and get a first overview o
 = Tutorial 3: getting started with an analysis =
 Explains how to start a project by setting up the folder structure for the various files and define this structure in FISH-QUANT.
 
-<wiki:video url="http://www.youtube.com/watch?v=j6qzBD1lm4s"/>
+<wiki:video url="http://www.youtube.com/watch?v=hGrT5SDIpjk"/>
 
-[http://www.youtube.com/watch?v=j6qzBD1lm4s]
+[http://www.youtube.com/watch?v=hGrT5SDIpjk]
