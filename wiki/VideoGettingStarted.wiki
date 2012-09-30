@@ -13,9 +13,9 @@ Explains how to install FISH-QUANT on the computer.
 = Tutorial 2: working with the example data set =
 Explains how to get started with the example data set and get a first overview of FISH-QUANT.  
 
-<wiki:video url="http://www.youtube.com/watch?v=qyytjYmy1FY"/>
+<wiki:video url="http://www.youtube.com/watch?v=YyGNehXkam0"/>
 
-[http://www.youtube.com/watch?v=qyytjYmy1FY]
+[http://www.youtube.com/watch?v=YyGNehXkam0]
 
 
 
