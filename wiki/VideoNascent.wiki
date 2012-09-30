@@ -5,6 +5,11 @@ For best quality use 720p and watch video in full screen mode.
 = Tutorial 1: getting the necessary files for nascent mRNA quantification =
 Explains how to get the files needed for the nascent mRNA quantification.
 
+<wiki:video url="http://www.youtube.com/watch?v=rZK3oP4rZNI"/>
+
+[http://www.youtube.com/watch?v=rZK3oP4rZNI]
+
+
 = Tutorial 2: setting up nascent mRNA quantification =
 Explains how to define the setting for the nascent mRNA quantification.
 
