@@ -13,14 +13,15 @@ Explains the first part of the mRNA quantification in individual cells. Image is
 = Tutorial 1.2: mature mRNA quantification in individual images (Part 2)=
 Explains the second part of the mRNA quantification in individual cells. Pre-detected spots are fit with a 3D Gaussian and then thresholded based on the estimated fitting parameters. 
 
-<wiki:video url="http://www.youtube.com/watch?v=Ar-z7kaRxdk"/>
+<wiki:video url="http://www.youtube.com/watch?v=fHb4llVZCMU"/>
 
-[http://www.youtube.com/watch?v=Ar-z7kaRxdk]
+[http://www.youtube.com/watch?v=fHb4llVZCMU]
 
 
 = Tutorial 2: batch processing for mature mRNA counting =
 Explains how to perform the batch processing for mature mRNA quantification.
 
-<wiki:video url="http://www.youtube.com/watch?v=VALdBQMmY-Y"/>
+<wiki:video url="http://www.youtube.com/watch?v=fHb4llVZCMU"/>
 
-[http://www.youtube.com/watch?v=VALdBQMmY-Y]
+[http://www.youtube.com/watch?v=fHb4llVZCMU]
+
