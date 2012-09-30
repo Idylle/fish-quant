@@ -4,3 +4,6 @@
 
  * [video_overview Video tutorials]
     * [VideoGettingStarted Getting started]
+    * [VideoOutlines Defining outlines]    
+    * [VideoMature Mature mRNA counting]
+    * [VideoNascent Nascent mRNA counting]
