@@ -1,3 +1,18 @@
 #summary How to count mature mRNA.
 
 For best quality use 720p and watch video in full screen mode. 
+
+= Tutorial 1.a: mature mRNA quantification in individual images (Part 1)=
+Explains the first part of the mRNA quantification in individual cells. Image is first filtered and then spot-candidates are pre-detected. 
+
+<wiki:video url="http://www.youtube.com/watch?v=2TDlg-_K-aE"/>
+
+[http://www.youtube.com/watch?v=2TDlg-_K-aE]
+
+
+= Tutorial 1.b: mature mRNA quantification in individual images (Part 2)=
+Explains the second part of the mRNA quantification in individual cells. Pre-detected spots are fit with a 3D Gaussian and then thresholded based on the estimated fitting parameters. 
+
+<wiki:video url="http://www.youtube.com/watch?v=Ar-z7kaRxdk"/>
+
+[http://www.youtube.com/watch?v=Ar-z7kaRxdk]
