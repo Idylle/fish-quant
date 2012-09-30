@@ -5,6 +5,6 @@ For best quality use 720p and watch video in full screen mode.
 = Tutorial 1: defining outlines =
 Explains how to define outlines of cells and transcription sites that will then be used for the mature and nascent mRNA quantification.
 
-<wiki:video url="http://www.youtube.com/watch?v=GG4AtZ0RBtU"/>
+<wiki:video url="http://www.youtube.com/watch?v=KMznhzOshgc"/>
 
-[http://www.youtube.com/watch?v=GG4AtZ0RBtU]
+[http://www.youtube.com/watch?v=KMznhzOshgc]
