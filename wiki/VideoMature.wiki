@@ -5,7 +5,7 @@ For best quality use 720p and watch video in full screen mode.
 = Tutorial 1.1: mature mRNA quantification in individual images (Part 1)=
 Explains the first part of the mRNA quantification in individual cells. Image is first filtered and then spot-candidates are pre-detected. 
 
-*IMPORTANT CHANGE* When opening the pre-detection interface you will be asked to define the range of threshold values that should be tested. This way the correct range is already considered when the interface initializes.
+*IMPORTANT CHANGE.* When opening the pre-detection interface you will be asked to define the range of threshold values that should be tested. This way the correct range is already considered when the interface initializes. This is not shown in the video.
 
 <wiki:video url="http://www.youtube.com/watch?v=p4-0-S7GAw8"/>
 
